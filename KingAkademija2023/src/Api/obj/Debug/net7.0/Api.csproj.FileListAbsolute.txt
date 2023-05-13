@@ -87,3 +87,4 @@ D:\Code\KingAkademija\KingAkademija2023\KingAkademija2023\src\Api\obj\Debug\net7
 D:\Code\KingAkademija\KingAkademija2023\KingAkademija2023\src\Api\obj\Debug\net7.0\Api.pdb
 D:\Code\KingAkademija\KingAkademija2023\KingAkademija2023\src\Api\obj\Debug\net7.0\Api.genruntimeconfig.cache
 D:\Code\KingAkademija\KingAkademija2023\KingAkademija2023\src\Api\obj\Debug\net7.0\ref\Api.dll
+D:\Code\KingAkademija\KingAkademija2023\KingAkademija2023\src\Api\bin\Debug\net7.0\appsettings.Production.json
