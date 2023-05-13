@@ -1,0 +1,13 @@
+D:\Code\KingAkademija\KingAkademija2023\KingAkademija2023\src\Application\bin\Debug\netstandard2.1\Application.deps.json
+D:\Code\KingAkademija\KingAkademija2023\KingAkademija2023\src\Application\bin\Debug\netstandard2.1\Application.dll
+D:\Code\KingAkademija\KingAkademija2023\KingAkademija2023\src\Application\bin\Debug\netstandard2.1\Application.pdb
+D:\Code\KingAkademija\KingAkademija2023\KingAkademija2023\src\Application\bin\Debug\netstandard2.1\Domain.dll
+D:\Code\KingAkademija\KingAkademija2023\KingAkademija2023\src\Application\bin\Debug\netstandard2.1\Domain.pdb
+D:\Code\KingAkademija\KingAkademija2023\KingAkademija2023\src\Application\obj\Debug\netstandard2.1\Application.csproj.AssemblyReference.cache
+D:\Code\KingAkademija\KingAkademija2023\KingAkademija2023\src\Application\obj\Debug\netstandard2.1\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\KingAkademija\KingAkademija2023\KingAkademija2023\src\Application\obj\Debug\netstandard2.1\Application.AssemblyInfoInputs.cache
+D:\Code\KingAkademija\KingAkademija2023\KingAkademija2023\src\Application\obj\Debug\netstandard2.1\Application.AssemblyInfo.cs
+D:\Code\KingAkademija\KingAkademija2023\KingAkademija2023\src\Application\obj\Debug\netstandard2.1\Application.csproj.CoreCompileInputs.cache
+D:\Code\KingAkademija\KingAkademija2023\KingAkademija2023\src\Application\obj\Debug\netstandard2.1\Application.csproj.CopyComplete
+D:\Code\KingAkademija\KingAkademija2023\KingAkademija2023\src\Application\obj\Debug\netstandard2.1\Application.dll
+D:\Code\KingAkademija\KingAkademija2023\KingAkademija2023\src\Application\obj\Debug\netstandard2.1\Application.pdb
